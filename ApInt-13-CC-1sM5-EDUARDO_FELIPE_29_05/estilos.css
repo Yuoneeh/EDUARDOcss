@@ -1,0 +1,53 @@
+body {
+        background-color: #86cecb;
+        color:#373b3e;
+        font-size: 16px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#table_gato_irado{
+        background-color: #373b3e;
+}
+
+#tabela_test{
+}
+/*link não visitado (unvisitied)*/
+a:link{
+        color:#e12885;
+}
+/*link visitado (visitied)*/
+a:visited{
+        color: #137a7f; 
+
+}
+/*link sobreposição do mouse (mouse over)*/
+a:hover {
+        color:#373b3e;
+}
+/**/
+a:active {
+        color: #bec8d1;
+}
+
+/* Definição de Classes */
+
+.pagina{
+        font-weight: bolder;
+        font-size:16px;
+
+}
+.hatsune{
+        background-image: url(https://wrender.neocities.org/Images/Mikuheadexercise.gif);
+        width: 200px;
+        height: 275px;
+        position: relative;
+        left: 45%;
+}
+
+#tabela_atv{
+
+}
+th, td{
+        padding: 0px;
+
+}
